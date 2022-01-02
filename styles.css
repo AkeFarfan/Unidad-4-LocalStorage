@@ -1,0 +1,31 @@
+.Titulo{
+    text-align: center;
+    margin-top:25px;
+}
+
+.Formulario{
+    margin: auto;
+    max-width: 400px;
+    text-align: center;
+}
+
+input[type='submit'], button,[aria-label]{
+    cursor: pointer;
+}
+
+td{
+    background: white;
+    padding-right: 12px;
+    text-align: center;
+}
+
+#Editor-Caja{
+    display: none;
+    max-width: 80px;
+    margin: auto;
+    text-align: left;
+}
+
+.Todo{
+    background: transparent !important;
+}
